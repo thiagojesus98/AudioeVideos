@@ -34,7 +34,7 @@ h1 {
 }
 
 .secao h2{
-    color:#005f73
+    color:#730000
 }
 
 video{
@@ -49,4 +49,11 @@ footer{
     color: #888;
     font-size: 0.9em;
     padding: 20px;
+}
+h3{
+    color:white
+}
+
+p{
+    color: white;
 }
