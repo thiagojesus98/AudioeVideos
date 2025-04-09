@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: whitw;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color:#222060;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba (0, 0, 0, 0.1);
+}
+ 
+.as-mais-tocadas{
+    background-image: linear-gradient(to right, #005f73, #0a9396);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.secao h2{
+    color:#005f73
+}
+
+video{
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
+    color: #888;
+    font-size: 0.9em;
+    padding: 20px;
+}
